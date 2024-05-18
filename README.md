@@ -8,7 +8,7 @@ JavaScript, MongoDB, TypeScript, Python
 Node.Js and MongoDb
 
 ### You can find me on:
--[Linkedin](https://www.linkedin.com/in/maria-eduarda-vargas-holzmeister/)
+[Linkedin](https://www.linkedin.com/in/maria-eduarda-vargas-holzmeister/)
 <!--
 **MariaEVargas/mariaevargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
