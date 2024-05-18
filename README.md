@@ -1,9 +1,15 @@
-### Hi there, I'm Maria Eduarda 👋
-<hr>
+## Hi there, I'm Maria Eduarda 👋
+A Brazilian back-end developer. I'm focused on building applications that solve real-world problems.
 
-A Brazilian back-end developer currently working on node.js projects
+### Experienced with: 
+JavaScript, MongoDB, TypeScript, Python
 
-- Experienced with: JavaScript, MongoDB, TypeScript, Python
+### Actually working with:
+Node.Js and MongoDb
+
+<br/>
+#### You can find me on:
+-[Linkedin](https://www.linkedin.com/in/maria-eduarda-vargas-holzmeister/)
 <!--
 **MariaEVargas/mariaevargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
