@@ -1,4 +1,4 @@
-## Hi there, I'm Maria Eduarda 👋
+## Hi, I'm Maria Eduarda 👋
 A Brazilian back-end developer. I'm focused on building applications that solve real-world problems.
 
 ### Experienced with: 
