@@ -7,7 +7,6 @@ JavaScript, MongoDB, TypeScript, Python
 ### Actually working with:
 Node.Js and MongoDb
 
-<br/>
 ### You can find me on:
 -[Linkedin](https://www.linkedin.com/in/maria-eduarda-vargas-holzmeister/)
 <!--
