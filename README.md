@@ -4,7 +4,7 @@ A Brazilian back-end developer. I'm focused on building applications that solve 
 ### Experienced with: 
 JavaScript, MongoDB, TypeScript, Python
 
-### Actually working with:
+### Currently working with:
 Node.Js and MongoDb
 
 ### You can find me on:
